@@ -66,3 +66,5 @@ languages:
 ## About Me
 
 I am a researcher in artificial intelligence at INRIA (National Institute for Research in Digital Science and Technology) within the odyssey research group (IFREMER, INRIA, Imperial College of London). My area of ​​expertise covers signal processing and the use of AI in geophysical data assimilation, more specifically the probabilistic modeling of uncertainties related to ill-posed inverse problems in geoscience.
+
+---
